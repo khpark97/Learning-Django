@@ -10,7 +10,14 @@
 
 <body>
     <header>
-        <h1><a href="{% url 'home' %}">Django blog</a></h1>
+        <!-- start new HTML... -->
+        <div class="nav-left">
+            <h1><a href="{% url 'home' %}">Django blog</a></h1>
+        </div>
+        <div class="nav-right">
+            <a href="{% url 'post_new' %}">+ New Blog Post</a>
+        </div>
+        <!-- end new HTML... -->
     </header>
     <div>
         {% block content %}
