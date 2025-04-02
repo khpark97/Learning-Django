@@ -8,10 +8,12 @@ This repository contains my implementations of projects from *Django for Beginne
 - Static files, forms, and database models
 
 ### Projects:
-1. **Message Board**: Basic Django app with CRUD  
-2. **Blog**: User accounts and custom templates  
-3. **Newspaper**: Advanced auth and permissions  
-4. **Production Deployment**: Configuring for Heroku  
+1. **Hello World**: Basic Django setup with FBVs
+2. **Personal Website**: Multi-page templates + testing 
+3. **Company Website**: CBVs + template inheritance
+4. **Message Board**: Models, forms, user auth
+5. **Blog Website**: CRUD ops + admin customization
+6. **Newspaper App**: Permissions + Heroku deployment (https://github.com/khpark97/NewspaperApp)
 
 ### Key Skills Gained:
 - Building secure, database-driven websites  
@@ -21,11 +23,3 @@ This repository contains my implementations of projects from *Django for Beginne
 ---
 
 **Book**: [Official Site](https://djangoforbeginners.com)  
-
-### Repository Structure
-/hello_world       # Basic Django setup with FBVs
-/personal_site     # Multi-page templates + testing
-/company_site      # CBVs + template inheritance
-/message_board     # Models, forms, user auth
-/blog              # CRUD ops + admin customization
-/newspaper         # Permissions + Heroku deployment (https://github.com/khpark97/NewspaperApp)
