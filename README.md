@@ -1,35 +1,31 @@
-# Learning Django
+## *Django for Beginners* by William S. Vincent
 
-https://learndjango.com/courses/django-for-beginners/
+This repository contains my implementations of projects from *Django for Beginners* (2025 edition), a practical guide to building full-stack Django web applications. The book covers:
 
-## Overview
+### Core Concepts:
+- Django's MTV and GCBV architecture  
+- User authentication and permissions  
+- Static files, forms, and database models
 
-This repository is a collection of Django projects built to learn various features and capabilities of the Django framework. Each project focuses on specific aspects or functionalities of Django.
+### Projects:
+1. **Message Board**: Basic Django app with CRUD  
+2. **Blog**: User accounts and custom templates  
+3. **Newspaper**: Advanced auth and permissions  
+4. **Production Deployment**: Configuring for Heroku  
 
-## 1. Hello, World Website  
-- Setting up a Django project  
-- Creating views and URL patterns  
-- Running the development server  
+### Key Skills Gained:
+- Building secure, database-driven websites  
+- Using Django's built-in admin interface  
+- Deployment best practices  
 
-## 2. Personal Website  
-- Using templates for multiple pages  
-- Function-based views (FBVs)  
-- Writing basic tests  
+---
 
-## 3. Company Website  
-- Class-based views (CBVs)  
-- Template inheritance  
-- Unit testing  
+**Book**: [Official Site](https://djangoforbeginners.com)  
 
-## 4. Message Board App  
-- Working with models and databases  
-- Creating and handling forms  
-- User authentication  
-
-## 5. Blog App  
-- CRUD functionality (Create, Read, Update, Delete)  
-- Django admin customization  
-- Handling user permissions  
-
-## 6. Newspaper App  
-- Heroku deployment (https://github.com/khpark97/NewspaperApp)
+### Repository Structure
+/hello_world       # Basic Django setup with FBVs
+/personal_site     # Multi-page templates + testing
+/company_site      # CBVs + template inheritance
+/message_board     # Models, forms, user auth
+/blog              # CRUD ops + admin customization
+/newspaper         # Permissions + Heroku deployment (https://github.com/khpark97/NewspaperApp)
