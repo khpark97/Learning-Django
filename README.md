@@ -32,4 +32,4 @@ This repository is a collection of Django projects built to learn various featur
 ## 6. Newspaper App  
 - Custom user model  
 - Advanced authentication and permissions  
-- Deploying a Django app  
+- Heroku deployment (https://github.com/khpark97/NewspaperApp)
