@@ -30,6 +30,4 @@ This repository is a collection of Django projects built to learn various featur
 - Handling user permissions  
 
 ## 6. Newspaper App  
-- Custom user model  
-- Advanced authentication and permissions  
 - Heroku deployment (https://github.com/khpark97/NewspaperApp)
