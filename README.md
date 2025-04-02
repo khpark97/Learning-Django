@@ -20,6 +20,4 @@ This repository contains my implementations of projects from *Django for Beginne
 - Using Django's built-in admin interface  
 - Deployment best practices  
 
----
-
-**Book**: [Official Site](https://djangoforbeginners.com)  
+**Book**: [Official Site](https://learndjango.com/courses/django-for-beginners/)  
