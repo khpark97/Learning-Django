@@ -1,5 +1,7 @@
 # Learning Django
 
+https://learndjango.com/courses/django-for-beginners/
+
 ## Overview
 
 This repository is a collection of Django projects built to learn various features and capabilities of the Django framework. Each project focuses on specific aspects or functionalities of Django.
