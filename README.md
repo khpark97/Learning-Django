@@ -1,6 +1,6 @@
 ## *Django for Beginners* by William S. Vincent
 
-This repository contains my implementations of projects from *Django for Beginners* (2025 edition), a practical guide to building full-stack Django web applications. The book covers:
+This repository contains my implementations of projects from *Django for Beginners* 5th edition, a practical guide to building full-stack Django web applications. The book covers:
 
 ### Core Concepts:
 - Django's MTV and GCBV architecture  
